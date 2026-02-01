@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #C71585;
+    color: azure;
+    padding:  10px;
+    border-radius: 10000px;
+}
+headr b {
+   text-align: right; 
+}
+ a {
+    color: #00BFFF;
+}
+main h1{
+    text-align: center;
+}
+.a{
+    color: #C71585;
+}
+.b{
+    color:#FF00FF ;
+}
+.hh{
+    text-align: center;
+    font-size: 30px;
+    color: #C71585;
+    border: solid 3px #C71585;
+}
+.gg{
+    color: #C71585;
+}
+.s{
+    text-align: center;
+    font-size: 30px;
+    color: #C71585;
+}
+.g{
+    text-align: center;
+    color: #C71585;
+    font-size: 30px;
+}
+.f{
+    color: #C71585;
+    font-size: 20px;
+    border: #C71585 solid 3px;
+}
